@@ -1646,6 +1646,9 @@ Can also be used for low-level lighting.</value>
   <data name="IDS_ITEM_HELMET_GOLD">
     <value>Golden Helmet</value>
   </data>
+  <data name="IDS_ITEM_HELMET_NETHERITE">
+    <value>Netherite Helmet</value>
+  </data>
   <data name="IDS_ITEM_CHESTPLATE_CLOTH">
     <value>Leather Tunic</value>
   </data>
@@ -1657,6 +1660,9 @@ Can also be used for low-level lighting.</value>
   </data>
   <data name="IDS_ITEM_CHESTPLATE_GOLD">
     <value>Golden Chestplate</value>
+  </data>
+  <data name="IDS_ITEM_CHESTPLATE_NETHERITE">
+    <value>Netherite Chestplate</value>
   </data>
   <data name="IDS_ITEM_LEGGINGS_CLOTH">
     <value>Leather Pants</value>
@@ -1670,6 +1676,9 @@ Can also be used for low-level lighting.</value>
   <data name="IDS_ITEM_LEGGINGS_GOLD">
     <value>Golden Leggings</value>
   </data>
+  <data name="IDS_ITEM_LEGGINGS_NETHERITE">
+    <value>Netherite Leggings</value>
+  </data>
   <data name="IDS_ITEM_BOOTS_CLOTH">
     <value>Leather Boots</value>
   </data>
@@ -1681,6 +1690,9 @@ Can also be used for low-level lighting.</value>
   </data>
   <data name="IDS_ITEM_BOOTS_GOLD">
     <value>Golden Boots</value>
+  </data>
+  <data name="IDS_ITEM_BOOTS_NETHERITE">
+    <value>Netherite Boots</value>
   </data>
   <data name="IDS_ITEM_INGOT_IRON">
     <value>Iron Ingot</value>
